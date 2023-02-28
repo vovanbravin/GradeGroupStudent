@@ -3,7 +3,6 @@
 #include <vector>
 #include <string>
 
-
 class Student
 {
 	std::string name;
